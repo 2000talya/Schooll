@@ -1,0 +1,20 @@
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\Dal.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\Dal.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\obj\Debug\Dal.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\obj\Debug\Dal.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\Dal.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\obj\Debug\Dal.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\obj\Debug\Dal.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\Dal.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\Dal.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\Dal.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache

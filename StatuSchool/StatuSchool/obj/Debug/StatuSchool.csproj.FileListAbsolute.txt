@@ -1,0 +1,222 @@
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\ApplicationInsights.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\StatuSchool.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\StatuSchool.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\StatuSchool.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\csc.exe
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\csc.exe.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\csc.rsp
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\csi.exe
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\csi.exe.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\csi.rsp
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.AppContext.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Console.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.Claims.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\vbc.exe
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\vbc.exe.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\vbc.rsp
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Antlr3.Runtime.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.Web.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Newtonsoft.Json.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Helpers.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Http.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Mvc.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Optimization.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Razor.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.WebPages.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\WebGrease.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Newtonsoft.Json.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Helpers.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Http.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Mvc.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Optimization.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Razor.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.WebPages.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.AI.Web.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\obj\Debug\StatuSchool.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\obj\Debug\StatuSchool.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Cors.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Http.Cors.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\System.Web.Http.Cors.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\obj\Debug\StatuSchool.csprojResolveAssemblyReference.cache
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Bl.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Dal.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Dto.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\EntityFramework.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Bl.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Bl.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Dal.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Dal.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Dto.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\Dto.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\EntityFramework.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\StatuSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\obj\Debug\StatuSchool.csprojResolveAssemblyReference.cache
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\obj\Debug\StatuSchool.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\obj\Debug\StatuSchool.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\ApplicationInsights.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\StatuSchool.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\StatuSchool.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\StatuSchool.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\csc.exe
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\csc.exe.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\csc.rsp
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\csi.exe
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\csi.exe.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\csi.rsp
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.AppContext.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Console.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.Claims.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\vbc.exe
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\vbc.exe.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\vbc.rsp
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Antlr3.Runtime.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Bl.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Dal.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Dto.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\EntityFramework.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.Web.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Newtonsoft.Json.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Cors.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Helpers.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Http.Cors.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Http.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Mvc.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Optimization.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Razor.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.WebPages.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\WebGrease.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Bl.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Bl.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Dal.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Dal.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Dto.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Dto.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\EntityFramework.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Http.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Http.Cors.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Newtonsoft.Json.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Helpers.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Mvc.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Optimization.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.Razor.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.WebPages.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.AI.Web.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\StatuSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

@@ -1,0 +1,26 @@
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\Dto.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\Dto.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\obj\Debug\Dto.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\obj\Debug\Dto.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\Dto.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\Dal.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\EntityFramework.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\Dal.pdb
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\Dal.dll.config
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\EntityFramework.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talya Samin\Desktop\StatuSchool\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\Dto.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\Dto.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\Dto.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\Dal.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\EntityFramework.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\Dal.pdb
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\Dal.dll.config
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\EntityFramework.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\obj\Debug\Dto.dll
+C:\Users\Talya Samin\Desktop\Project 2020\StatuSchool\Dto\obj\Debug\Dto.pdb

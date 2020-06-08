@@ -1,0 +1,39 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<div class="pos-f-t">
+    <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+        <h5 class="text-white h4">Collapsed content</h5>
+        <span class="text-muted">Toggleable via the navbar brand.</span>
+    </div>
+</div>
+<nav class="navbar navbar-dark bg-dark">
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item active">
+            <a class="nav-link" href="#" routerLink="presence">Presence <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="#">Tasks</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link disabled" href="#">Student List</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link disabled" routerLink="mark">Mark</a>
+            <router-outlet></router-outlet>
+        </li>
+    </ul>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent"
+        aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+</nav>
+</div>
+
+
+
+
+
+

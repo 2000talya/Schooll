@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SchoolModelStoreContainer" CdmEntityContainer="SchoolEntities">
+    <EntitySetMapping Name="Classes">
+      <EntityTypeMapping TypeName="SchoolModel.Class">
+        <MappingFragment StoreEntitySet="Classes">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Grade" ColumnName="Grade" />
+          <ScalarProperty Name="NumClass" ColumnName="NumClass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Marks">
+      <EntityTypeMapping TypeName="SchoolModel.Mark">
+        <MappingFragment StoreEntitySet="Marks">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="StudentCode" ColumnName="StudentCode" />
+          <ScalarProperty Name="TaskCode" ColumnName="TaskCode" />
+          <ScalarProperty Name="Mark1" ColumnName="Mark" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Presences">
+      <EntityTypeMapping TypeName="SchoolModel.Presence">
+        <MappingFragment StoreEntitySet="Presence">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="StudentCode" ColumnName="StudentCode" />
+          <ScalarProperty Name="Day" ColumnName="Day" />
+          <ScalarProperty Name="Hour" ColumnName="Hour" />
+          <ScalarProperty Name="Presence1" ColumnName="Presence" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Schedules">
+      <EntityTypeMapping TypeName="SchoolModel.Schedule">
+        <MappingFragment StoreEntitySet="Schedule">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="ClassCode" ColumnName="ClassCode" />
+          <ScalarProperty Name="Day" ColumnName="Day" />
+          <ScalarProperty Name="Hour" ColumnName="Hour" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="TeacherCode" ColumnName="TeacherCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="SchoolModel.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserCode" ColumnName="UserCode" />
+          <ScalarProperty Name="ClassCode" ColumnName="ClassCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subjects">
+      <EntityTypeMapping TypeName="SchoolModel.Subject">
+        <MappingFragment StoreEntitySet="Subject">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="TeacherCode" ColumnName="TeacherCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tasks">
+      <EntityTypeMapping TypeName="SchoolModel.Task">
+        <MappingFragment StoreEntitySet="Tasks">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="SubjectCode" ColumnName="SubjectCode" />
+          <ScalarProperty Name="RequestDate" ColumnName="RequestDate" />
+          <ScalarProperty Name="PresentDate" ColumnName="PresentDate" />
+          <ScalarProperty Name="Tiltle" ColumnName="Tiltle" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="TeaherCode" ColumnName="TeaherCode" />
+          <ScalarProperty Name="ClassCode" ColumnName="ClassCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teachers">
+      <EntityTypeMapping TypeName="SchoolModel.Teacher">
+        <MappingFragment StoreEntitySet="Teacher">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="UserCode" ColumnName="UserCode" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="SchoolModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

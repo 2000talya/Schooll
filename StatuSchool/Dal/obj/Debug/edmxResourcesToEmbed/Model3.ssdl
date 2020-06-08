@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SchoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Classes">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Grade" Type="int" Nullable="false" />
+    <Property Name="NumClass" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Marks">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentCode" Type="int" Nullable="false" />
+    <Property Name="TaskCode" Type="int" Nullable="false" />
+    <Property Name="Mark" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Presence">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentCode" Type="int" Nullable="false" />
+    <Property Name="Day" Type="int" Nullable="false" />
+    <Property Name="Hour" Type="int" Nullable="false" />
+    <Property Name="Presence" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Schedule">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ClassCode" Type="int" Nullable="false" />
+    <Property Name="Day" Type="int" Nullable="false" />
+    <Property Name="Hour" Type="int" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TeacherCode" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ClassCode" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Subject">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="TeacherCode" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tasks">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SubjectCode" Type="int" Nullable="false" />
+    <Property Name="RequestDate" Type="date" Nullable="false" />
+    <Property Name="PresentDate" Type="date" Nullable="false" />
+    <Property Name="Tiltle" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="TeaherCode" Type="int" Nullable="false" />
+    <Property Name="ClassCode" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Teacher">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Code" />
+    </Key>
+    <Property Name="Code" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Id" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="Phone" Type="nchar" MaxLength="35" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Marks_Students">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Marks" Type="Self.Marks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="StudentCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Marks_Tasks">
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="1" />
+    <End Role="Marks" Type="Self.Marks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tasks">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Marks">
+        <PropertyRef Name="TaskCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Presence_Students">
+    <End Role="Students" Type="Self.Students" Multiplicity="1" />
+    <End Role="Presence" Type="Self.Presence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Presence">
+        <PropertyRef Name="StudentCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Schedule_Classes">
+    <End Role="Classes" Type="Self.Classes" Multiplicity="1" />
+    <End Role="Schedule" Type="Self.Schedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Classes">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Schedule">
+        <PropertyRef Name="ClassCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_Classes">
+    <End Role="Classes" Type="Self.Classes" Multiplicity="1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Classes">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="ClassCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Subject_Teacher">
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="1" />
+    <End Role="Subject" Type="Self.Subject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Teacher">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Subject">
+        <PropertyRef Name="TeacherCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tasks_Classes">
+    <End Role="Classes" Type="Self.Classes" Multiplicity="1" />
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Classes">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Tasks">
+        <PropertyRef Name="ClassCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tasks_Subject">
+    <End Role="Subject" Type="Self.Subject" Multiplicity="1" />
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subject">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Tasks">
+        <PropertyRef Name="SubjectCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tasks_Teacher">
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="1" />
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Teacher">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Tasks">
+        <PropertyRef Name="TeaherCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teacher_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Code" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="Code" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SchoolModelStoreContainer">
+    <EntitySet Name="Classes" EntityType="Self.Classes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Marks" EntityType="Self.Marks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Presence" EntityType="Self.Presence" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Schedule" EntityType="Self.Schedule" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Subject" EntityType="Self.Subject" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tasks" EntityType="Self.Tasks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Teacher" EntityType="Self.Teacher" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Marks_Students" Association="Self.FK_Marks_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Marks_Tasks" Association="Self.FK_Marks_Tasks">
+      <End Role="Tasks" EntitySet="Tasks" />
+      <End Role="Marks" EntitySet="Marks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Presence_Students" Association="Self.FK_Presence_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Presence" EntitySet="Presence" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Schedule_Classes" Association="Self.FK_Schedule_Classes">
+      <End Role="Classes" EntitySet="Classes" />
+      <End Role="Schedule" EntitySet="Schedule" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_Classes" Association="Self.FK_Students_Classes">
+      <End Role="Classes" EntitySet="Classes" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_Users" Association="Self.FK_Students_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Subject_Teacher" Association="Self.FK_Subject_Teacher">
+      <End Role="Teacher" EntitySet="Teacher" />
+      <End Role="Subject" EntitySet="Subject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tasks_Classes" Association="Self.FK_Tasks_Classes">
+      <End Role="Classes" EntitySet="Classes" />
+      <End Role="Tasks" EntitySet="Tasks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tasks_Subject" Association="Self.FK_Tasks_Subject">
+      <End Role="Subject" EntitySet="Subject" />
+      <End Role="Tasks" EntitySet="Tasks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tasks_Teacher" Association="Self.FK_Tasks_Teacher">
+      <End Role="Teacher" EntitySet="Teacher" />
+      <End Role="Tasks" EntitySet="Tasks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teacher_Users" Association="Self.FK_Teacher_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Teacher" EntitySet="Teacher" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
